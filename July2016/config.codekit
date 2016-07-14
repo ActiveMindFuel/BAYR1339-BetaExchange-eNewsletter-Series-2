@@ -2,178 +2,178 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19127",
 "files": {
-	"\/imgs\/Band_1.png": {
+	"\/imgs\/Band 1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 32576,
-		"inputAbbreviatedPath": "\/imgs\/Band_1.png",
-		"outputAbbreviatedPath": "\/imgs\/Band_1.png",
+		"initialSize": 54365,
+		"inputAbbreviatedPath": "\/imgs\/Band 1.png",
+		"outputAbbreviatedPath": "\/imgs\/Band 1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Band_2.png": {
+	"\/imgs\/Band 2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 32570,
-		"inputAbbreviatedPath": "\/imgs\/Band_2.png",
-		"outputAbbreviatedPath": "\/imgs\/Band_2.png",
+		"initialSize": 54485,
+		"inputAbbreviatedPath": "\/imgs\/Band 2.png",
+		"outputAbbreviatedPath": "\/imgs\/Band 2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Band_3.png": {
+	"\/imgs\/Band 3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 32576,
-		"inputAbbreviatedPath": "\/imgs\/Band_3.png",
-		"outputAbbreviatedPath": "\/imgs\/Band_3.png",
+		"initialSize": 54365,
+		"inputAbbreviatedPath": "\/imgs\/Band 3.png",
+		"outputAbbreviatedPath": "\/imgs\/Band 3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Band_4.png": {
+	"\/imgs\/Band 4.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 32570,
-		"inputAbbreviatedPath": "\/imgs\/Band_4.png",
-		"outputAbbreviatedPath": "\/imgs\/Band_4.png",
+		"initialSize": 54485,
+		"inputAbbreviatedPath": "\/imgs\/Band 4.png",
+		"outputAbbreviatedPath": "\/imgs\/Band 4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Booth_1.png": {
+	"\/imgs\/Band 5.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 71749,
-		"inputAbbreviatedPath": "\/imgs\/Booth_1.png",
-		"outputAbbreviatedPath": "\/imgs\/Booth_1.png",
+		"initialSize": 54365,
+		"inputAbbreviatedPath": "\/imgs\/Band 5.png",
+		"outputAbbreviatedPath": "\/imgs\/Band 5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Booth_2.png": {
+	"\/imgs\/Band 6.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 113369,
-		"inputAbbreviatedPath": "\/imgs\/Booth_2.png",
-		"outputAbbreviatedPath": "\/imgs\/Booth_2.png",
+		"initialSize": 54485,
+		"inputAbbreviatedPath": "\/imgs\/Band 6.png",
+		"outputAbbreviatedPath": "\/imgs\/Band 6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Data_Analysis.png": {
+	"\/imgs\/Conclusion Nurse Meeting.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 138650,
-		"inputAbbreviatedPath": "\/imgs\/Data_Analysis.png",
-		"outputAbbreviatedPath": "\/imgs\/Data_Analysis.png",
+		"initialSize": 78046,
+		"inputAbbreviatedPath": "\/imgs\/Conclusion Nurse Meeting.png",
+		"outputAbbreviatedPath": "\/imgs\/Conclusion Nurse Meeting.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/FINAL-2016_AAN_BEN_11_Regression_(Freedman)_Poster_04-08-16.png": {
+	"\/imgs\/Group of Nurses.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 280496,
-		"inputAbbreviatedPath": "\/imgs\/FINAL-2016_AAN_BEN_11_Regression_(Freedman)_Poster_04-08-16.png",
-		"outputAbbreviatedPath": "\/imgs\/FINAL-2016_AAN_BEN_11_Regression_(Freedman)_Poster_04-08-16.png",
+		"initialSize": 245335,
+		"inputAbbreviatedPath": "\/imgs\/Group of Nurses.png",
+		"outputAbbreviatedPath": "\/imgs\/Group of Nurses.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/FINAL-2016_AAN_NEDA_(Goodin)_Poster_04-08-16.png": {
+	"\/imgs\/Lunch Photo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 264044,
-		"inputAbbreviatedPath": "\/imgs\/FINAL-2016_AAN_NEDA_(Goodin)_Poster_04-08-16.png",
-		"outputAbbreviatedPath": "\/imgs\/FINAL-2016_AAN_NEDA_(Goodin)_Poster_04-08-16.png",
+		"initialSize": 218136,
+		"inputAbbreviatedPath": "\/imgs\/Lunch Photo.png",
+		"outputAbbreviatedPath": "\/imgs\/Lunch Photo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Gradient_Box.png": {
+	"\/imgs\/Neurology Cover.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 41570,
-		"inputAbbreviatedPath": "\/imgs\/Gradient_Box.png",
-		"outputAbbreviatedPath": "\/imgs\/Gradient_Box.png",
+		"initialSize": 68759,
+		"inputAbbreviatedPath": "\/imgs\/Neurology Cover.png",
+		"outputAbbreviatedPath": "\/imgs\/Neurology Cover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Marketing.png": {
+	"\/imgs\/Positive Feedback.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 166683,
-		"inputAbbreviatedPath": "\/imgs\/Marketing.png",
-		"outputAbbreviatedPath": "\/imgs\/Marketing.png",
+		"initialSize": 61107,
+		"inputAbbreviatedPath": "\/imgs\/Positive Feedback.png",
+		"outputAbbreviatedPath": "\/imgs\/Positive Feedback.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Medical.png": {
+	"\/imgs\/Poster.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 168257,
-		"inputAbbreviatedPath": "\/imgs\/Medical.png",
-		"outputAbbreviatedPath": "\/imgs\/Medical.png",
+		"initialSize": 169175,
+		"inputAbbreviatedPath": "\/imgs\/Poster.png",
+		"outputAbbreviatedPath": "\/imgs\/Poster.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/thanks_a_lot!.png": {
+	"\/imgs\/Soraya on Orange.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 21643,
-		"inputAbbreviatedPath": "\/imgs\/thanks_a_lot!.png",
-		"outputAbbreviatedPath": "\/imgs\/thanks_a_lot!.png",
+		"initialSize": 75292,
+		"inputAbbreviatedPath": "\/imgs\/Soraya on Orange.png",
+		"outputAbbreviatedPath": "\/imgs\/Soraya on Orange.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/US_launch_group.png": {
+	"\/imgs\/Survey Art.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 519146,
-		"inputAbbreviatedPath": "\/imgs\/US_launch_group.png",
-		"outputAbbreviatedPath": "\/imgs\/US_launch_group.png",
+		"initialSize": 292455,
+		"inputAbbreviatedPath": "\/imgs\/Survey Art.png",
+		"outputAbbreviatedPath": "\/imgs\/Survey Art.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Vancouver.png": {
+	"\/imgs\/Survey Conclusion.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 301482,
-		"inputAbbreviatedPath": "\/imgs\/Vancouver.png",
-		"outputAbbreviatedPath": "\/imgs\/Vancouver.png",
+		"initialSize": 66510,
+		"inputAbbreviatedPath": "\/imgs\/Survey Conclusion.png",
+		"outputAbbreviatedPath": "\/imgs\/Survey Conclusion.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/imgs\/Working_Together.png": {
+	"\/imgs\/Wolf Photo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 70889,
-		"inputAbbreviatedPath": "\/imgs\/Working_Together.png",
-		"outputAbbreviatedPath": "\/imgs\/Working_Together.png",
+		"initialSize": 86185,
+		"inputAbbreviatedPath": "\/imgs\/Wolf Photo.png",
+		"outputAbbreviatedPath": "\/imgs\/Wolf Photo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -186,6 +186,15 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/index2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
@@ -195,9 +204,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "May2016 AAN article",
+	"displayValue": "July2016",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "pencil_orange"
+	"iconImageName": "pencil_brown"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
@@ -783,7 +792,7 @@
 	"markdownProcessHTML": 0,
 	"markdownRandomFootnoteNumbers": 0,
 	"markdownUseCompatibilityMode": 0,
-	"reloadFileURLs": 1,
+	"reloadFileURLs": 0,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "..\/css",
